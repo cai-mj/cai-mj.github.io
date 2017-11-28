@@ -7,8 +7,9 @@ date: 2017-08-01
 venue: 'IEEE Transactions on Human-Machine Systems (THMS)'
 citation: 'M. Cai, K.M. Kitani, and Y. Sato, &quot;An ego-vision system for hand grasp analysis,&quot; <i>IEEE Transactions on Human-Machine Systems (THMS)</i>, vol. 47, no. 4, pp. 524–535, (2017).'
 ---
-This paper is about...
 
 [Download paper here](http://cai-mj.github.io/files/CKS_THMS2017.pdf)
+
+This paper presents an egocentric vision (ego-vision) system for hand grasp analysis in unstructured environments. Our goal is to automatically recognize hand grasp types and to discover the visual structures of hand grasps using a wearable camera. In the proposed system, free hand-object interactions are recorded from a first-person viewing perspective. State-of- the-art computer vision techniques are used to detect hands and extract hand-based features. A new feature representation which incorporates hand tracking information is also proposed. Then grasp classifiers are trained to discriminate among different grasp types from a pre-defined grasp taxonomy. Based on the trained grasp classifiers, visual structures of hand grasps are learned using an iterative grasp clustering method. In experiments, grasp recognition performance in both laboratory and real-world scenarios are evaluated. The best classification accuracy our system achieves is 92% and 59% respectively. System generality to different tasks and users is also verified by the experiments. Analysis in real-world scenario shows that it is possible to automatically learn intuitive visual grasp structures that are consistent with expert-designed grasp taxonomies.
 
 Recommended citation: M. Cai, K.M. Kitani, and Y. Sato,  "An ego-vision system for hand grasp analysis," <i>IEEE Transactions on Human-Machine Systems (THMS)</i>, vol. 47, no. 4, pp. 524–535, (2017).
