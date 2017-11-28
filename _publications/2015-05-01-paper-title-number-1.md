@@ -12,4 +12,4 @@ This paper is about...
 
 [Download paper here](http://cai-mj.github.io/files/CKS_ICRA2015.pdf)
 
-Recommended citation: M. Cai, K.M. Kitani, and Y. Sato. (2015). "A scalable approach for understanding the visual structures of hand grasps." <i>Proceedings of IEEE International Conference on Robotics and Automation (ICRA)</i>. pp. 1360-1366.
+Recommended citation: M. Cai, K.M. Kitani, and Y. Sato,  "A scalable approach for understanding the visual structures of hand grasps," <i>Proceedings of IEEE International Conference on Robotics and Automation (ICRA)</i>, pp. 1360-1366, (2015).
