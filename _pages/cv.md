@@ -11,21 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D., Information and Communication Engineering, University of Tokyo
+  * Data: March 2016
+  * Doctoral Thesis: Understanding Hand-Object Manipulation from First-Person View Video
+  * Advisor: Prof. Yoichi Sato
+* M.S., Communication and Information System, Northwestern Polytechnical University
+  * Data: March 2011
+  * Master's Thesis: Research on Cross-layer Design between H.264 Algorithms and MAC Protocols of Wireless Ad hoc Networks
+  * Advisor: Prof. Bo Li
+* B.S., Electronics and Information Engineering, Northwestern Polytechnical University
+  * Data: June 2008
 
+Research experience
+======
+* Apr 2016 - : Project Researcher
+  * Institute of Industrial Science, The University of Tokyo
+  * Research area: First-person vision, wearable ego-vision system and its applications. 
+  * Supervisor: Professor Yoichi Sato
+
+* Sep 2015 - Mar 2016: Research Intern
+  * Huawei Japan Research Center
+  * Research area: Hand gesture recognition and its applications in virtual reality.
+  * Supervisor: Dr Bo Zheng
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2011 - April 2012: Software Engineer
+  * Huwei Technologies
+  * Duties included: Developed software for access network devices 
   
 Skills
 ======
@@ -42,18 +55,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Services
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Journal reviewer
+  * IEEE Transactions on Multimedia 2016 - 2017
+  * IEEE Transactions on Human-Machine Systems 2015 - 2016
+* International conference reviewer
+  * ICCV 2017
+  * IROS 2017
