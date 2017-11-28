@@ -1,9 +1,9 @@
 ---
 title: "Understanding hand-object manipulation with grasp types andobjectattributes"
 collection: publications
-permalink: /publication/2016-06-01-paper-title-number-2
+permalink: /publication/2017-08-01-paper-title-number-3
 excerpt: 'This paper is about...'
-date: 2016-06-01
+date: 2017-08-01
 venue: 'Proceedings of Robotics: Science and Systems Conference (RSS2016)'
 citation: 'M. Cai, K.M. Kitani, and Y. Sato, &quot;Understanding hand-object manipulation with grasp types and object attributes,&quot; <i>Proceedings of Robotics: Science and Systems Conference (RSS2016)</i>, XII.034, pp. 1-10, (2016).'
 ---
