@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](Academic_Resume_CV.pdf)"
+title: "[CV](http://cai-mj.github.io/files/Academic_Resume_CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
