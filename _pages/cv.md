@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](http://cai-mj.github.io/files/Academic_Resume_CV.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[also available in PDF format.](http://cai-mj.github.io/files/Academic_Resume_CV.pdf)
 
 Education
 ======
