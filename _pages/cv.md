@@ -12,15 +12,15 @@ redirect_from:
 Education
 ======
 * Ph.D., Information and Communication Engineering, University of Tokyo
-  * Data: March 2016
+  * Date: March 2016
   * Doctoral Thesis: Understanding Hand-Object Manipulation from First-Person View Video
   * Advisor: Prof. Yoichi Sato
 * M.S., Communication and Information System, Northwestern Polytechnical University
-  * Data: March 2011
+  * Date: March 2011
   * Master's Thesis: Research on Cross-layer Design between H.264 Algorithms and MAC Protocols of Wireless Ad hoc Networks
   * Advisor: Prof. Bo Li
 * B.S., Electronics and Information Engineering, Northwestern Polytechnical University
-  * Data: June 2008
+  * Date: June 2008
 
 Research experience
 ======
@@ -62,3 +62,6 @@ Services
 * International conference reviewer
   * ICCV 2017
   * IROS 2017
+* Program committee member:
+  * [WACV Workshop on Human Activity Analysis with Highly Diverse Cameras](http://printeps.org/HDC2017/) 2017
+  * [CVPR Workshop on Egocentric (First-Person) Vision](http://www.cbi.gatech.edu/fpv2016/) 2016
