@@ -5,7 +5,7 @@ permalink: /publication/2017-10-01-paper-title-number-4
 excerpt: 'This paper is about detecting when and where joint attention happens from multiple egocentric videos.'
 date: 2017-10-01
 venue: 'Proceedings of IEEE International Conference on Computer Vision Workshop (ICCVW2017)'
-citation: 'Y. Huang, M. Cai, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (ICCVW2017)</i>, pp. 2313-2321, (2017).'
+citation: 'Y. Huang, M. Cai, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (ICCVW2017)</i>, pp. 2313-2321, 2017.'
 ---
 
 <img class="img-responsive" src="/images/EPIC2017_concept.jpg">
