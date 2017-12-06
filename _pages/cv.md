@@ -41,6 +41,12 @@ Work experience
 * April 2011 - April 2012: Software Engineer
   * Huwei Technologies
   * Duties included: Developed software for access network devices 
+
+Selected publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -50,12 +56,6 @@ Skills
   * English: Fluent (speaking, reading, writing)
   * Japanese: Fluent (reading); Intermediate (speaking, writing)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Services
 ======
 * Journal reviewer
