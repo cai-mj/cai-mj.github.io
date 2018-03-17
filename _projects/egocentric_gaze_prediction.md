@@ -1,3 +1,12 @@
+---
+title: "Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition"
+#collection: publications
+#permalink: /publication/2018-03-01-eccv
+excerpt: 'This paper is about predicting gaze in egocentric videos by exploiting temporal context between gaze fixations.'
+#date: 2018-03-15
+#venue: 'European Conference on Computer Vision (under review)'
+#citation: 'Y. Huang, M. Cai, and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (under review)</i>, 2018.'
+---
 
 <img class="img-responsive" src="/images/ECCV2018_architecture.jpg">
 ### Abstract
