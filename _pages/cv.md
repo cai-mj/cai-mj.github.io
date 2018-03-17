@@ -62,7 +62,7 @@ Services
   * IEEE Transactions on Multimedia 2016 - 2018
   * IEEE Transactions on Human-Machine Systems 2015 - 2016
 * International conference reviewer
-  * CVPR 2018
+  * CVPR 2018
   * ICCV 2017
   * IROS 2017
 * Program committee member:
