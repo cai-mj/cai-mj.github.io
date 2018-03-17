@@ -59,9 +59,10 @@ Skills
 Services
 ======
 * Journal reviewer
-  * IEEE Transactions on Multimedia 2016 - 2017
+  * IEEE Transactions on Multimedia 2016 - 2018
   * IEEE Transactions on Human-Machine Systems 2015 - 2016
 * International conference reviewer
+  * CVPR 2018
   * ICCV 2017
   * IROS 2017
 * Program committee member:
