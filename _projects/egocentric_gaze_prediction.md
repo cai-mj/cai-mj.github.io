@@ -9,6 +9,7 @@ date: 2018-03-15
 ---
 
 <img class="img-responsive" src="/images/ECCV2018_architecture.jpg">
+<img class="img-responsive" src="/images/ECCV2018_sample.gif">
 ### Abstract
 We present a new computational model for gaze prediction in egocentric videos by exploring patterns in temporal shift of gaze fixations (attention transition) that are dependent on egocentric manipulation tasks.
 Our assumption is that the high-level context of how a task is completed in a certain way has a strong influence on attention transition and should be modeled for gaze prediction in natural dynamic scenes.
