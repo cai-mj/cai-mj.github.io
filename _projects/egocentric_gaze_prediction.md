@@ -17,4 +17,4 @@ Specifically, we propose a hybrid model based on deep neural networks which inte
 In particular, the task-dependent attention transition is learned with a recurrent neural network to exploit the temporal context of gaze fixations, e.g. looking at a cup after moving gaze away from a grasped bottle.
 Experiments on public egocentric activity datasets show that our model significantly outperforms state-of-the-art gaze prediction methods and is able to learn meaningful transition of human attention.
 
-Demo video can be watched [[here]](https://drive.google.com/open?id=1eg6X6vz7GSm9WvPHe6pvJ48QMnSDdeNQ)
+Demo video can be watched [[here]](https://drive.google.com/file/d/1eg6X6vz7GSm9WvPHe6pvJ48QMnSDdeNQ/view?usp=sharing)
