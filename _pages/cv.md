@@ -16,7 +16,7 @@ Education
 * Ph.D., Information and Communication Engineering, University of Tokyo
   * Date: March 2016
   * Doctoral Thesis: Understanding Hand-Object Manipulation from First-Person View Video
-  * Advisor: Prof. Yoichi Sato
+  * Advisor: Prof. Yoichi Sato and Dr. Kris Kitani
 * M.S., Communication and Information System, Northwestern Polytechnical University
   * Date: March 2011
   * Master's Thesis: Research on Cross-layer Design between H.264 Algorithms and MAC Protocols of Wireless Ad hoc Networks
@@ -29,18 +29,18 @@ Research experience
 * Apr 2016 - : Project Researcher
   * Institute of Industrial Science, The University of Tokyo
   * Research area: First-person vision, wearable ego-vision system and its applications. 
-  * Supervisor: Professor Yoichi Sato
+  * Supervisor: Prof. Yoichi Sato
 
 * Sep 2015 - Mar 2016: Research Intern
   * Huawei Japan Research Center
   * Research area: Hand gesture recognition and its applications in virtual reality.
-  * Supervisor: Dr Bo Zheng
+  * Supervisor: Dr. Bo Zheng
   
 Work experience
 ======
 * April 2011 - April 2012: Software Engineer
-  * Huwei Technologies
-  * Duties included: Developed software for access network devices 
+  * Huwei Technologies (Shenzhen, China)
+  * Duties included: Developing software for access network devices 
 
 Selected publications
 ======
@@ -62,6 +62,7 @@ Services
   * IEEE Transactions on Multimedia 2016 - 2018
   * IEEE Transactions on Human-Machine Systems 2015 - 2016
 * International conference reviewer
+  * ECCV 2018
   * CVPR 2018
   * ICCV 2017
   * IROS 2017
