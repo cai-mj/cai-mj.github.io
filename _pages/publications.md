@@ -11,9 +11,9 @@ my Google Scholar profile</a>.</u>
 Journal
 ======
 * M. Cai, F. Lu, and Y. Gao, &quot;Desktop action recognition from first-person point-of-view,&quot; <i>IEEE Transactions
-on Cybernetics (THMS)</i>, DOI:10.1109/TCYB.2018.2806381, 2018.
+on Cybernetics</i>, DOI:10.1109/TCYB.2018.2806381, 2018.
 * M. Cai, K. Kitani, and Y. Sato, &quot;An ego-vision system for hand grasp analysis,&quot; <i>IEEE Transactions
-on Human-Machine Systems (THMS)</i>, vol. 47, no. 4, pp. 524–535, 2017.
+on Human-Machine Systems</i>, vol. 47, no. 4, pp. 524–535, 2017.
 
 International Conference
 ======
