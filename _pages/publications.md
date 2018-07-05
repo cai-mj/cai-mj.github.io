@@ -18,7 +18,7 @@ International Conference
 ======
 * Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Predicting gaze in egocentric videos by learning task-dependent attention transition,&quot; <i>Proceedings of European Conference on Computer Vision (ECCV)</i>, to appear, 2018.
 * Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (ICCVW)</i>, pp. 2313-2321, Oct 2017.
-* <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;Understanding hand-object manipulation with grasp types and object attributes,&quot; <i>Proceedings of Robotics: Science and Systems Conference (RSS)</i>, XII.034, pp. 1-10, June 2016.
+* <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;Understanding hand-object manipulation with grasp types and object attributes,&quot; <i>Proceedings of Robotics: Science and Systems (RSS)</i>, XII.034, pp. 1-10, June 2016.
 * <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;A scalable approach for understanding the visual structures of hand grasps,&quot; <i>Proceedings of IEEE International Conference on Robotics and Automation (ICRA)</i>, pp. 1360-1366, May 2015.
 * <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;Hand grasp recognition from egocentric videos,&quot; <i>Proceedings of IEEE Computer Society Workshop on Observing and Understanding Hands in Action (HANDS)</i>, pp. 1-3, Jun 2015.
 
