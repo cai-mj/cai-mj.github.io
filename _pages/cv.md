@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[also available in PDF format.](http://cai-mj.github.io/files/Academic_Resume_CV.pdf)
+[<u>also available in PDF format.</u>](http://cai-mj.github.io/files/Academic_Resume_CV.pdf)
 
 Education
 ======
