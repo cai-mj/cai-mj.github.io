@@ -10,18 +10,20 @@ table, th, td {
 }
 </style>
 
-<table border="0">
+<font size="4" face="Courier New" >
+<table>
   <tr>
     <td>
     <img src="/images/ECCV2018_architecture.jpg" style="padding-right:25px" width="500">
     </td>
     <td aligh="left">
-    <font size="6"><a href="https://cai-mj.github.io/project/egocentric_gaze_prediction">Egocentric Gaze Prediction</a></font>
+    <a href="https://cai-mj.github.io/project/egocentric_gaze_prediction">Egocentric Gaze Prediction</a>
     </td>
   </tr> 
 </table>
+</font>
 
-<table border="0">
+<table>
   <tr>
     <td>
     <img src="/images/THMS2017_concept.png" style="padding-right:25px" width="500">
