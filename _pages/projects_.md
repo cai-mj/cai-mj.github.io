@@ -29,7 +29,7 @@ table, th, td {
     <img src="/images/THMS2017_concept.png" style="padding-right:25px" width="500">
     </td>
     <td aligh="left">
-    <a href="https://cai-mj.github.io/publication/2017-08-01-THMS">Visual Grasp Analysis</a>
+    <font size="4"><a href="https://cai-mj.github.io/publication/2017-08-01-THMS">Visual Grasp Analysis</a></font>
     </td>
   </tr> 
 </table>
