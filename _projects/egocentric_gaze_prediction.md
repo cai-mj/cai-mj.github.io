@@ -3,9 +3,6 @@ title: "Predicting Gaze in Egocentric Video by Learning Task-dependent Attention
 collection: projects
 permalink: /project/egocentric_gaze_prediction
 excerpt: 'This paper is about predicting gaze in egocentric videos by exploiting temporal context between gaze fixations.'
-date: 2018-03-15
-#venue: 'European Conference on Computer Vision (under review)'
-#citation: 'Y. Huang, M. Cai, and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (under review)</i>, 2018.'
 ---
 
 <img class="img-responsive" src="/images/ECCV2018_architecture.jpg">
@@ -19,3 +16,6 @@ Experiments on public egocentric activity datasets show that our model significa
 [[pdf]](/files/HCLS_eccv_arxiv2018.pdf)
 
 Demo video can be watched [[here]](https://drive.google.com/file/d/1eg6X6vz7GSm9WvPHe6pvJ48QMnSDdeNQ/view?usp=sharing)
+
+## Citation:
+Y. Huang, M. Cai, and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (ECCV)</i>, to appear, 2018.
