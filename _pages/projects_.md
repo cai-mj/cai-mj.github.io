@@ -16,7 +16,7 @@ table, th, td {
     <img src="/images/ECCV2018_architecture.jpg" style="padding-right:25px" width="500">
     </td>
     <td aligh="left">
-    <a href="https://cai-mj.github.io/project/egocentric_gaze_prediction">Egocentric Gaze Prediction</a>
+    <font size="6"><a href="https://cai-mj.github.io/project/egocentric_gaze_prediction">Egocentric Gaze Prediction</a></font>
     </td>
   </tr> 
 </table>
