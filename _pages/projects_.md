@@ -10,7 +10,6 @@ table, th, td {
 }
 </style>
 
-<font size="4" face="Courier New" >
 <table>
   <tr>
     <td>
@@ -21,7 +20,6 @@ table, th, td {
     </td>
   </tr> 
 </table>
-</font>
 
 <table>
   <tr>
