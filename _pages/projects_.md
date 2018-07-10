@@ -4,6 +4,12 @@ permalink: /projects_/
 author_profile: true
 ---
 
+<style>
+table, th, td {
+    border: 0px solid black;
+}
+</style>
+
 <table border="0">
   <tr>
     <td>
