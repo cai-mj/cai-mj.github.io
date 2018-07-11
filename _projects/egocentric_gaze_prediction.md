@@ -1,5 +1,5 @@
 ---
-title: "Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition"
+title: "Egocentric Gaze Prediction"
 collection: projects
 permalink: /project/egocentric_gaze_prediction
 excerpt: 'This paper is about predicting gaze in egocentric videos by exploiting temporal context between gaze fixations.'
