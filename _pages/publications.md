@@ -35,9 +35,9 @@ International Conference
 
 Domestic Conference
 ======
-* Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Spatial-temporal segmentation of joint attention in multiple first-person videos,&quot; <i>Meeting on Image Recognition and Understanding (MIRU)</i>, extended abstract, Aug 2017.
+* Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Spatial-temporal segmentation of joint attention in multiple first-person videos,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2017.
 * <u>M. Cai</u>, K.M. Kitani, and Y. Sato, &quot;Hand skeleton pruning based on contour partition with fingertip
-detection,&quot; <i>Meeting on Image Recognition and Understanding (MIRU)</i>, extended abstract, Nov 2014.
+detection,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Nov 2014.
 
 Technical Report
 ======
