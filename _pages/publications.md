@@ -24,7 +24,8 @@ International Conference
 [[Arxiv preprint]](/files/HCLS_eccv_arxiv2018.pdf)
 * Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, Oct 2017.  
 [[project]](https://cai-mj.github.io/project/joint_attention_discovery)
-[[paper]](/files/HC_ICCVW2017_poster.pdf)
+[[paper]](/files/HC_ICCVW2017.pdf)
+[[poster]](/files/HC_ICCVW2017_poster.pdf)
 * <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;Understanding hand-object manipulation with grasp types and object attributes,&quot; <i>Proceedings of Robotics: Science and Systems (**RSS**)</i>, XII.034, pp. 1-10, June 2016. (<font color="blue">acceptance rate: 20%</font>)  
 [[project]](https://cai-mj.github.io/project/hand_manipulation_understanding)
 [[paper]](/files/CKS_RSS2016.pdf)
