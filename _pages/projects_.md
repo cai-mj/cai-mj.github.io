@@ -35,7 +35,7 @@ table, th, td {
 <table>
   <tr>
     <td>
-    <img src="/images/RSS2016_concept.jpg" style="padding-right:25px" width="500">
+    <img src="/images/RSS2016_concept.png" style="padding-right:25px" width="500">
     </td>
     <td aligh="left">
     <font size="4"><a href="https://cai-mj.github.io/project/hand_manipulation_understanding">Hand Manipulation Understanding</a></font>
