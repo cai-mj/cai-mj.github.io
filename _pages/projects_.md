@@ -24,6 +24,17 @@ table, th, td {
 <table>
   <tr>
     <td>
+    <img src="/images/EPIC2017_concept.jpg" style="padding-right:25px" width="500">
+    </td>
+    <td aligh="left">
+    <font size="4"><a href="https://cai-mj.github.io/project/joint_attention_discovery">Joint Attention Discovery</a></font>
+    </td>
+  </tr> 
+</table>
+
+<table>
+  <tr>
+    <td>
     <img src="/images/THMS2017_concept.png" style="padding-right:25px" width="500">
     </td>
     <td aligh="left">
