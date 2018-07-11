@@ -15,6 +15,6 @@ In particular, the task-dependent attention transition is learned with a recurre
 Experiments on public egocentric activity datasets show that our model significantly outperforms state-of-the-art gaze prediction methods and is able to learn meaningful transition of human attention.
 
 ## Publication:
-Y. Huang, M. Cai, and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (ECCV)</i>, to appear, 2018. (oral presentation)  
+Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (**ECCV**)</i>, to appear, 2018. (<font color="blue">oral presentation</font>)  
 [[Arxiv preprint]](/files/HCLS_eccv_arxiv2018.pdf)
 [[Demo video]](https://drive.google.com/file/d/1eg6X6vz7GSm9WvPHe6pvJ48QMnSDdeNQ/view?usp=sharing)
