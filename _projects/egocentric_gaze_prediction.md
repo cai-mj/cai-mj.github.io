@@ -13,9 +13,8 @@ Our assumption is that the high-level context of how a task is completed in a ce
 Specifically, we propose a hybrid model based on deep neural networks which integrates task-dependent attention transition with bottom-up saliency prediction. 
 In particular, the task-dependent attention transition is learned with a recurrent neural network to exploit the temporal context of gaze fixations, e.g. looking at a cup after moving gaze away from a grasped bottle.
 Experiments on public egocentric activity datasets show that our model significantly outperforms state-of-the-art gaze prediction methods and is able to learn meaningful transition of human attention.
-[[pdf]](/files/HCLS_eccv_arxiv2018.pdf)
 
-Demo video can be watched [[here]](https://drive.google.com/file/d/1eg6X6vz7GSm9WvPHe6pvJ48QMnSDdeNQ/view?usp=sharing)
-
-## Citation:
-Y. Huang, M. Cai, and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (ECCV)</i>, to appear, 2018.
+## Publication:
+Y. Huang, M. Cai, and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (ECCV)</i>, to appear, 2018. (oral presentation)  
+[[Arxiv preprint]](/files/HCLS_eccv_arxiv2018.pdf)
+[[Demo video]](https://drive.google.com/file/d/1eg6X6vz7GSm9WvPHe6pvJ48QMnSDdeNQ/view?usp=sharing)
