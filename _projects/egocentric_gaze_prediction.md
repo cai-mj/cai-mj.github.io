@@ -22,6 +22,6 @@ Y. Huang, <u>M. Cai</u>, Z. Li and Y. Sato, &quot;Predicting Gaze in Egocentric 
 [[Demo video]](https://drive.google.com/file/d/1eg6X6vz7GSm9WvPHe6pvJ48QMnSDdeNQ/view?usp=sharing)
 
 ### Demo video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TiFz-LP3LW4" target="_blank"><img src="http://img.youtube.com/vi/TiFz-LP3LW4/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TiFz-LP3LW4" target="_blank"><img src="http://img.youtube.com/vi/TiFz-LP3LW4/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" border="0" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TiFz-LP3LW4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
