@@ -10,10 +10,10 @@ my Google Scholar profile</a>.</u>
 
 Journal
 ======
-* <u>M. Cai</u>, F. Lu, and Y. Gao, &quot;Desktop action recognition from first-person point-of-view,&quot; <i>IEEE Transactions on Cybernetics</i>, DOI:10.1109/TCYB.2018.2806381, 2018.  
+* <u>M. Cai</u>, F. Lu, and Y. Gao, &quot;Desktop action recognition from first-person point-of-view,&quot; <i>IEEE Transactions on Cybernetics (**TCYB**)</i>, DOI:10.1109/TCYB.2018.2806381, 2018. (<font color="blue">Impact factor: 8.803</font>)   
 [[preprint]](/files/CLG_TCYB2018.pdf)
 * <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;An ego-vision system for hand grasp analysis,&quot; <i>IEEE Transactions
-on Human-Machine Systems</i>, vol. 47, no. 4, pp. 524–535, 2017.  
+on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<font color="blue">Impact factor: 2.563</font>)
 [[project]](https://cai-mj.github.io/project/visual_grasp_analysis)
 [[preprint]](/files/CKS_THMS2017.pdf)
 
@@ -36,6 +36,8 @@ International Conference
 
 Domestic Conference
 ======
+* Z. Li, Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Pairwise performance assessment using deep ranking,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2018.
+* Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Egocentric gaze prediction using task-dependent attention transition,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2018.
 * Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Spatial-temporal segmentation of joint attention in multiple first-person videos,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Aug 2017.
 * <u>M. Cai</u>, K.M. Kitani, and Y. Sato, &quot;Hand skeleton pruning based on contour partition with fingertip
 detection,&quot; <i>Meeting on Image Recognition and Understanding (**MIRU**)</i>, extended abstract, Nov 2014.
