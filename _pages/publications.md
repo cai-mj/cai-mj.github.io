@@ -13,7 +13,7 @@ Journal
 * <u>M. Cai</u>, F. Lu, and Y. Gao, &quot;Desktop action recognition from first-person point-of-view,&quot; <i>IEEE Transactions on Cybernetics (**TCYB**)</i>, DOI:10.1109/TCYB.2018.2806381, 2018. (<font color="blue">Impact factor: 8.803</font>)   
 [[preprint]](/files/CLG_TCYB2018.pdf)
 * <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;An ego-vision system for hand grasp analysis,&quot; <i>IEEE Transactions
-on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<font color="blue">Impact factor: 2.563</font>)
+on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<font color="blue">Impact factor: 2.563</font>) 
 [[project]](https://cai-mj.github.io/project/visual_grasp_analysis)
 [[preprint]](/files/CKS_THMS2017.pdf)
 
