@@ -19,7 +19,7 @@ on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<
 
 International Conference
 ======
-* Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Predicting gaze in egocentric videos by learning task-dependent attention transition,&quot; <i>Proceedings of European Conference on Computer Vision (**ECCV**)</i>, to appear, 2018. (<font color="blue">oral presentation, acceptance rate: 2%</font>)  
+* Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Predicting gaze in egocentric videos by learning task-dependent attention transition,&quot; <i>Proceedings of European Conference on Computer Vision (**ECCV**)</i>, Sep 2018. (<font color="blue">oral presentation, acceptance rate: 2.4%</font>)  
 [[project]](https://cai-mj.github.io/project/egocentric_gaze_prediction)
 [[Arxiv preprint]](/files/HCLS_eccv_arxiv2018.pdf)
 * Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, Oct 2017.  
