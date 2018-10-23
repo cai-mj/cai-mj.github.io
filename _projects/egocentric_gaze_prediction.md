@@ -19,7 +19,7 @@ Experiments on public egocentric activity datasets show that our model significa
 <img class="img-responsive" src="/images/ECCV2018_architecture.jpg">
 
 ## Publication:
-Y. Huang, <u>M. Cai</u>, Z. Li and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (**ECCV**)</i>, to appear, 2018. (<font color="blue">oral presentation, acceptance rate: 2%</font>)  
+Y. Huang, <u>M. Cai</u>, Z. Li and Y. Sato, &quot;Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition,&quot; <i>European Conference on Computer Vision (**ECCV**)</i>, 2018. (<font color="blue">oral presentation, acceptance rate: 2.4%</font>)  
 [[Arxiv preprint]](/files/HCLS_eccv_arxiv2018.pdf)
 [[Code]](https://github.com/hyf015/egocentric-gaze-prediction)
 
