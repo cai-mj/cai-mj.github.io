@@ -14,6 +14,7 @@ I received my Ph.D. in Information Science and Technology at [The University of 
 
 
 ## News
+* (December 14, 2018) Got assigned **nine** CVPR papers for reviewing. Keenly aware of the fast-growing popularity in AI!
 * (September 25, 2018) I have moved to Hunan University (in the city of Changsha near my hometown) and would remain as a cooperative research fellow at the University of Tokyo.
 * (July 5, 2018) Our work on egocentric gaze prediction has been accepted to ECCV 2018 as **oral presentation**! [[Project page]](https://cai-mj.github.io/project/egocentric_gaze_prediction)
 * (March 15, 2018) We uploaded our work on gaze prediction in egocentric video to [arXiv](https://arxiv.org/abs/1803.09125).
