@@ -19,7 +19,8 @@ on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<
 
 International Conference
 ======
-* Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and actions,&quot; <i>arXiv preprint arXiv:1901.01874</i>, 2019.
+* Z. Li, Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Manipulation-skill assessment from videos with spatial attention network,&quot; <i>arXiv preprint arXiv:1901.02579</i>, 2019.
+* Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and actions,&quot; <i>arXiv preprint arXiv:1901.01874</i>, 2019.
 * Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Predicting gaze in egocentric videos by learning task-dependent attention transition,&quot; <i>Proceedings of European Conference on Computer Vision (**ECCV**)</i>, Sep 2018. (<font color="blue">oral presentation, acceptance rate: 2.4%</font>)  
 [[project]](https://cai-mj.github.io/project/egocentric_gaze_prediction)
 [[Arxiv preprint]](/files/HCLS_eccv_arxiv2018.pdf)
