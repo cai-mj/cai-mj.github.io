@@ -26,7 +26,7 @@ Education
 
 Research experience
 ======
-* Apr 2016 - : Project Researcher
+* Apr 2016 - Seq 2018: Project Researcher
   * Institute of Industrial Science, The University of Tokyo
   * Research area: First-person vision, wearable ego-vision system and its applications. 
   * Supervisor: Prof. Yoichi Sato
@@ -64,7 +64,7 @@ Services
 * International conference reviewer
   * CHI 2018
   * ECCV 2018
-  * CVPR 2018
+  * CVPR 2018 - 2019
   * ICCV 2017
   * IROS 2017
 * Program committee member:
