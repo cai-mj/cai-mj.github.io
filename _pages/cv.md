@@ -62,11 +62,11 @@ Services
   * IEEE Transactions on Multimedia 2016 - 2018
   * IEEE Transactions on Human-Machine Systems 2015 - 2016
 * International conference reviewer
-  * CHI 2018
-  * ECCV 2018
+  * ICCV 2017 - 2019
   * CVPR 2018 - 2019
-  * ICCV 2017
-  * IROS 2017
+  * ECCV 2018
+  * CHI 2018  
+  * IROS 2017 - 2019
 * Program committee member:
   * [WACV Workshop on Human Activity Analysis with Highly Diverse Cameras](http://printeps.org/HDC2017/) 2017
   * [CVPR Workshop on Egocentric (First-Person) Vision](http://www.cbi.gatech.edu/fpv2016/) 2016
