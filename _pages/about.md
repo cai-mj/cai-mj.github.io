@@ -14,10 +14,10 @@ I received my Ph.D. in Information Science and Technology at [The University of 
 
 
 ## News
-* (December 14, 2018) Got assigned **nine** CVPR papers for reviewing. Keenly aware of the fast-growing popularity in AI!
+* (July 2, 2019) One paper on [first and third-person video co-analysis](https://arxiv.org/abs/1904.07424) has been accepted to ACM Multimedia 2019!
+* (December 14, 2018) Got assigned **nine** CVPR papers for reviewing. Keenly aware of the fast-growing popularity in computer vision!
 * (September 25, 2018) I have moved to Hunan University (in the city of Changsha near my hometown) and would remain as a cooperative research fellow at the University of Tokyo.
 * (July 5, 2018) Our work on egocentric gaze prediction has been accepted to ECCV 2018 as **oral presentation**! [[Project page]](https://cai-mj.github.io/project/egocentric_gaze_prediction)
-* (March 15, 2018) We uploaded our work on gaze prediction in egocentric video to [arXiv](https://arxiv.org/abs/1803.09125).
 * (December 1 2017) We released our [UTJA Dataset (University of Tokyo - Joint Attention)](https://github.com/cai-mj/UTJA_dataset).
 * (August 8, 2017) One paper about spatial-temporal detection of joint attention from multiple first-person videos has been accepted to ICCV workshop. [[Project page]](https://cai-mj.github.io/publication/2017-10-01-iccvw)
 * (February 1, 2017) Our paper on hand grasp analysis has been accepted to IEEE Transactions on Human-Machine Systems. [[Project page]](https://cai-mj.github.io/publication/2017-08-01-THMS)
