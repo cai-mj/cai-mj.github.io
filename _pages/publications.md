@@ -10,7 +10,6 @@ my Google Scholar profile</a>.</u>
 
 Arxiv
 ======
-* Z. Li, Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Manipulation-skill assessment from videos with spatial attention network,&quot; <i>arXiv preprint arXiv:1901.02579</i>, 2019.
 * Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and actions,&quot; <i>arXiv preprint arXiv:1901.01874</i>, 2019.
 
 Journal
@@ -24,6 +23,8 @@ on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<
 
 International Conference
 ======
+* Z. Li, Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Manipulation-skill assessment from videos with spatial attention network,&quot; <i>International Conference on Computer Vision Workshop</i>, 2019.
+[[Arxiv preprint]](https://arxiv.org/abs/1901.02579)
 * H. Yu, <u>M. Cai</u>, Y. Liu, and F. Lu, &quot;What I see is what you see: joint attention learning for first and third person video co-analysis,&quot; <i>ACM International Conference on Multimedia (**ACM MM**)</i>, 2019. (<font color="blue">acceptance rate: 26.8%</font>)  
 [[Arxiv preprint]](https://arxiv.org/abs/1904.07424)
 * Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Predicting gaze in egocentric videos by learning task-dependent attention transition,&quot; <i>Proceedings of European Conference on Computer Vision (**ECCV**)</i>, Sep 2018. (<font color="blue">oral presentation, acceptance rate: 2.4%</font>)  
@@ -39,7 +40,6 @@ International Conference
 * <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;A scalable approach for understanding the visual structures of hand grasps,&quot; <i>Proceedings of IEEE International Conference on Robotics and Automation (**ICRA**)</i>, pp. 1360-1366, May 2015.  
 [[project]](https://cai-mj.github.io/project/visual_grasp_analysis)
 [[paper]](/files/CKS_ICRA2015.pdf)
-* <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;Hand grasp recognition from egocentric videos,&quot; <i>Proceedings of IEEE Computer Society Workshop on Observing and Understanding Hands in Action (**HANDS**)</i>, pp. 1-3, Jun 2015.
 
 Domestic Conference
 ======
