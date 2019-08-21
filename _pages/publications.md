@@ -23,7 +23,7 @@ on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<
 
 International Conference
 ======
-* Z. Li, Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Manipulation-skill assessment from videos with spatial attention network,&quot; <i>International Conference on Computer Vision Workshop</i>, 2019.
+* Z. Li, Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Manipulation-skill assessment from videos with spatial attention network,&quot; <i>International Conference on Computer Vision Workshop</i>, 2019.  
 [[Arxiv preprint]](https://arxiv.org/abs/1901.02579)
 * H. Yu, <u>M. Cai</u>, Y. Liu, and F. Lu, &quot;What I see is what you see: joint attention learning for first and third person video co-analysis,&quot; <i>ACM International Conference on Multimedia (**ACM MM**)</i>, 2019. (<font color="blue">acceptance rate: 26.8%</font>)  
 [[Arxiv preprint]](https://arxiv.org/abs/1904.07424)
