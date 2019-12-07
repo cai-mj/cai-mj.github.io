@@ -14,6 +14,7 @@ I received my Ph.D. in Information Science and Technology at [The University of 
 
 
 ## News
+* (November 26, 2019) One paper on joint attention discovery is accepted to IEEE Transactions on Human-Machine Systems.
 * (August 21, 2019) One paper on [video-based skill assessment](https://arxiv.org/abs/1901.02579) has been accepted to ICCV workshop of Egocentric Perception, Interaction and Computing.
 * (July 2, 2019) One paper on [first and third-person video co-analysis](https://arxiv.org/abs/1904.07424) has been accepted to ACM Multimedia 2019!
 * (September 25, 2018) I have moved to Hunan University (in the city of Changsha near my hometown) and would remain as a cooperative research fellow at the University of Tokyo.
