@@ -11,7 +11,8 @@ This work aims to develop a computer-vision technique for understanding objects 
 
 
 ## Publication:
-Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, 2017.   
+* Y. Huang, <u>M. Cai</u>, H. Kera, R. Yonetani, K. Higuchi, and Y. Sato, &quot;Temporal localization and spatial segmentation of joint attention in multiple first-person videos,&quot; <i>Proceedings of IEEE International Conference on Computer Vision Workshop (**ICCVW**)</i>, pp. 2313-2321, 2017.   
 [[pdf]](/files/HC_ICCVW2017.pdf)
 [[poster]](/files/HC_ICCVW2017_poster.pdf)
 [[dataset]](https://github.com/cai-mj/UTJA_dataset)
+* Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;An ego-vision system for discovering human joint attention,&quot; <i>IEEE Transactions on Human-Machine Systems (**THMS**)</i>, to appear, 2020.
