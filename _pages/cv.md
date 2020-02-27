@@ -55,17 +55,18 @@ Skills
   * Chinese: Native
   * English: Fluent (speaking, reading, writing)
   * Japanese: Fluent (reading); Intermediate (speaking, writing)
+  * Deutsch: Beginner
 
 Services
 ======
 * Journal reviewer
-  * IEEE Transactions on Multimedia 2016 - 2018
+  * IEEE Transactions on Multimedia 2016 - 2020
   * IEEE Transactions on Human-Machine Systems 2015 - 2016
 * International conference reviewer
   * ICCV 2017 - 2019
-  * CVPR 2018 - 2019
-  * ECCV 2018
-  * CHI 2018  
+  * CVPR 2018 - 2020
+  * ECCV 2018 - 2020
+  * CHI 2018 - 2019 
   * IROS 2017 - 2019
 * Program committee member:
   * [WACV Workshop on Human Activity Analysis with Highly Diverse Cameras](http://printeps.org/HDC2017/) 2017
