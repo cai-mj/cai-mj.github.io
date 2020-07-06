@@ -8,14 +8,10 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lmUOLU8AAAAJ&hl=ja">
 my Google Scholar profile</a>.</u>
 
-Arxiv
-======
-* Y. Huang, <u>M. Cai</u>, Z. Li, and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and actions,&quot; <i>arXiv preprint arXiv:1901.01874</i>, 2019.
-
 Journal
 ======
 * Y. Huang, <u>M. Cai</u>, Z. Li, F. Lu and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and action,&quot; <i>IEEE Transactions
-on Image Processing (**THMS**)</i>, DOI:10.1109/TIP.2020.3007841, 2020. (<font color="blue">Impact factor: 6.79</font>)
+on Image Processing (**TIP**)</i>, DOI:10.1109/TIP.2020.3007841, 2020. (<font color="blue">Impact factor: 6.79</font>)
 * Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;An ego-vision system for discovering human joint attention,&quot; <i>IEEE Transactions
 on Human-Machine Systems (**THMS**)</i>, DOI:10.1109/THMS.2020.2965429, 2020. (<font color="blue">Impact factor: 3.332</font>)  
 [[project]](https://cai-mj.github.io/project/joint_attention_discovery)
