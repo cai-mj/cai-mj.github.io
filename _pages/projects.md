@@ -13,6 +13,17 @@ table, th, td {
 <table>
   <tr>
     <td>
+    <img src="/images/CVPR2020_task.gif" style="padding-right:25px" width="500">
+    </td>
+    <td aligh="left">
+    <font size="4"><a href="https://cai-mj.github.io/project/egocentric_hand_segmentation">Egocentric Hand Segmentation</a></font>
+    </td>
+  </tr> 
+</table>
+
+<table>
+  <tr>
+    <td>
     <img src="/images/ECCV2018_architecture.jpg" style="padding-right:25px" width="500">
     </td>
     <td aligh="left">
