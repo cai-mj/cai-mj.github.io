@@ -17,6 +17,9 @@ uncertainty estimated by a Bayesian CNN. We further use an adversarial component
 constrain the model adaptation process. 
 Experiments on multiple egocentric datasets show that the proposed method significantly improves the generalization performance of hand segmentation.
 
+## Method Overview
+<img class="img-responsive" src="/images/CVPR2020_method.png">
+
 ## Publication:
 <u>M. Cai</u>, F. Lu and Y. Sato, &quot;Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation,&quot; <i>IEEE Conference 
 on Computer Vision and Pattern Recognition (**CVPR**)</i>, 2020. (<font color="blue">acceptance rate: 22%</font>)  
