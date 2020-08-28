@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<u>also available in PDF format.</u>](http://cai-mj.github.io/files/Academic_Resume_CV.pdf)
+also available in [PDF format](http://cai-mj.github.io/files/Academic_Resume_CV.pdf){:target="_blank"}
 
 Education
 ======
