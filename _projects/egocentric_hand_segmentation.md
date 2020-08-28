@@ -23,6 +23,6 @@ Experiments on multiple egocentric datasets show that the proposed method signif
 ## Publication:
 <u>M. Cai</u>, F. Lu and Y. Sato, &quot;Generalizing Hand Segmentation in Egocentric Videos with Uncertainty-Guided Model Adaptation,&quot; <i>IEEE Conference 
 on Computer Vision and Pattern Recognition (**CVPR**)</i>, 2020. (<font color="blue">acceptance rate: 22%</font>)  
-[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Generalizing_Hand_Segmentation_in_Egocentric_Videos_With_Uncertainty-Guided_Model_Adaptation_CVPR_2020_paper.pdf)
-[[slides]](/files/miru2020-invitedTalk.pdf)
-[[Code]](https://github.com/cai-mj/UMA)
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Generalizing_Hand_Segmentation_in_Egocentric_Videos_With_Uncertainty-Guided_Model_Adaptation_CVPR_2020_paper.pdf){:target="_blank"}
+[[slides]](/files/miru2020-invitedTalk.pdf){:target="_blank"}
+[[Code]](https://github.com/cai-mj/UMA){:target="_blank"}
