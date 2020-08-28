@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lmUOLU8AAAAJ&hl=ja">
-my Google Scholar profile</a>.</u>
+You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=lmUOLU8AAAAJ&hl=ja" target="_blank">
+Google Scholar profile</a>.</u>
 
 Journal
 ======
@@ -24,7 +24,8 @@ on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<
 
 International Conference
 ======
-* <u>M. Cai</u>, F. Lu, and Y. Sato, &quot;Generalizing hand segmentation in egocentric videos with uncertainty-guided model adaptation,&quot; <i>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)</i>, 2020. (<font color="blue">acceptance rate: 22%</font>)
+* <u>M. Cai</u>, F. Lu, and Y. Sato, &quot;Generalizing hand segmentation in egocentric videos with uncertainty-guided model adaptation,&quot; <i>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)</i>, 2020. (<font color="blue">acceptance rate: 22%</font>)  
+[[project]](https://cai-mj.github.io/project/egocentric_hand_segmentation)
 * Z. Li, Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Manipulation-skill assessment from videos with spatial attention network,&quot; <i>International Conference on Computer Vision Workshop (**ICCVW**)</i>, 2019.  
 [[Arxiv preprint]](https://arxiv.org/abs/1901.02579)
 * H. Yu, <u>M. Cai</u>, Y. Liu, and F. Lu, &quot;What I see is what you see: joint attention learning for first and third person video co-analysis,&quot; <i>ACM International Conference on Multimedia (**ACM MM**)</i>, 2019. (<font color="blue">acceptance rate: 26.8%</font>)  
