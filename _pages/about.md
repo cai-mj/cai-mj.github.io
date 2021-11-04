@@ -14,12 +14,12 @@ I received my Ph.D. in Information Science and Technology at The University of T
 
 
 ## News
+* (November 4, 2021) Our work on audio-visual event localization has been accepted to IEEE Transactions on Multimedia!
 * (August 2, 2021) One paper entitled "DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar" has been accepted to UbiComp 2021.
 * (October 5, 2020) One paper entitled "First and third-person video co-analysis by learning spatial-temporal joint attention" has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)!
-* (June 26, 2020) One paper on jointly estimating egocentric gaze and action is accepted to [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/9139335){:target="_blank"}!
-* (February 23, 2020) One paper on generalizing hand segmentation is accepted to CVPR 2020! [[Project page]](https://cai-mj.github.io/project/egocentric_hand_segmentation)
-* (November 26, 2019) One paper on joint attention discovery is accepted to IEEE Transactions on Human-Machine Systems! [[Project page]](https://cai-mj.github.io/project/joint_attention_discovery)
-* (August 21, 2019) One paper on [video-based skill assessment](https://arxiv.org/abs/1901.02579){:target="_blank"} has been accepted to ICCV workshop of Egocentric Perception, Interaction and Computing.
-* (July 2, 2019) One paper on [cross-view joint attention learning](https://arxiv.org/abs/1904.07424){:target="_blank"} has been accepted to ACM Multimedia 2019!
+* (June 26, 2020) Our work on jointly estimating egocentric gaze and action is accepted to [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/9139335){:target="_blank"}!
+* (February 23, 2020) Our work on domain adaptive hand segmentation is accepted to CVPR 2020! [[Project page]](https://cai-mj.github.io/project/egocentric_hand_segmentation)
+* (November 26, 2019) Our work on joint attention discovery is accepted to IEEE Transactions on Human-Machine Systems! [[Project page]](https://cai-mj.github.io/project/joint_attention_discovery)
+* (August 21, 2019) Our work on [video-based skill assessment](https://arxiv.org/abs/1901.02579){:target="_blank"} has been accepted to ICCV workshop of Egocentric Perception, Interaction and Computing.
 
 
