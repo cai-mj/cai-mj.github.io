@@ -9,6 +9,8 @@ Google Scholar profile</a>.</u>
 
 Journal
 ======
+* C. Xue, X. Zhong, <u>M. Cai</u>, H. Chen, and W. Wang, &quot;Audio-visual event localization by learning spatial and semantic co-attention,&quot; <i>IEEE Transactions on Multimedia (**TMM**)</i>, accepted, 2021. (<font color="blue">Impact factor: 6.513</font>)
+* H. Yu, <u>M. Cai</u>, Y. Liu, and F. Lu, &quot;First- and third-person video co-analysis by learning spatial-temporal joint attention,&quot; <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)</i>, DOI:10.1109/TPAMI.2020.3030048, 2020. (<font color="blue">Impact factor: 17.861</font>)
 * Y. Huang, <u>M. Cai</u>, Z. Li, F. Lu and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and action,&quot; <i>IEEE Transactions
 on Image Processing (**TIP**)</i>, DOI:10.1109/TIP.2020.3007841, 2020. (<font color="blue">Impact factor: 6.79</font>)
 * Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;An ego-vision system for discovering human joint attention,&quot; <i>IEEE Transactions
