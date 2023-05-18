@@ -14,6 +14,7 @@ I received my Ph.D. in Information Science and Technology at The University of T
 
 
 ## News
+* (May 17, 2023) Two papers on audio-driven face animation and blind estimation of room impulse response have been accepted to INTERSPEECH 2023!  
 * (May 4, 2023) One paper entitled "DongTing: A Large-scale Dataset for Anomaly Detection of the Linux Kernel" has been accepted to The Journal of Systems & Software.
 * (November 4, 2021) Our work on audio-visual event localization has been accepted to [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9615027){:target="_blank"}!
 * (August 2, 2021) One paper entitled "DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar" has been accepted to UbiComp 2021.
