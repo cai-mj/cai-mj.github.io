@@ -12,26 +12,26 @@ also available in [PDF format](http://cai-mj.github.io/files/Academic_Resume_CV.
 
 Education
 ======
-* Ph.D., Information and Communication Engineering, University of Tokyo
+* Ph.D., Information and Communication Engineering, The University of Tokyo (Tokyo, Japan)
   * Date: March 2016
   * Doctoral Thesis: Understanding Hand-Object Manipulation from First-Person View Video
   * Advisor: Prof. Yoichi Sato and Dr. Kris Kitani
-* M.S., Communication and Information System, Northwestern Polytechnical University
+* M.S., Communication and Information System, Northwestern Polytechnical University (Xi'an, China)
   * Date: March 2011
   * Master's Thesis: Research on Cross-layer Design between H.264 Algorithms and MAC Protocols of Wireless Ad hoc Networks
   * Advisor: Prof. Bo Li
-* B.S., Electronics and Information Engineering, Northwestern Polytechnical University
+* B.S., Electronics and Information Engineering, Northwestern Polytechnical University (Xi'an, China)
   * Date: June 2008
 
 Research experience
 ======
 * Apr 2016 - Seq 2018: Project Researcher
-  * Institute of Industrial Science, The University of Tokyo
+  * Institute of Industrial Science, The University of Tokyo (Tokyo, Japan)
   * Research area: First-person vision, wearable ego-vision system and its applications. 
   * Supervisor: Prof. Yoichi Sato
 
 * Sep 2015 - Mar 2016: Research Intern
-  * Huawei Japan Research Center
+  * Huawei Japan Research Center (Yokohama, Japan)
   * Research area: Hand gesture recognition and its applications in virtual reality.
   * Supervisor: Dr. Bo Zheng
   
@@ -64,6 +64,7 @@ Services
   * ICCV 2017 - 2023
   * CVPR 2018 - 2023
   * ECCV 2018 - 2024
+  * NeurIPS 2022 - 2024
 * Program committee member:
   * [WACV Workshop on Human Activity Analysis with Highly Diverse Cameras](http://printeps.org/HDC2017/) 2017
   * [CVPR Workshop on Egocentric (First-Person) Vision](http://www.cbi.gatech.edu/fpv2016/) 2016
