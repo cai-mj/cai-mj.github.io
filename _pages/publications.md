@@ -13,31 +13,31 @@ Journal
 [[paper]](https://ieeexplore.ieee.org/document/10570076)
 * G. Duan, H. Liu, <u>M. Cai</u>, J. Sun, and H. Chen, &quot;MaDroid: A maliciousness-aware multifeatured dataset for detecting Android malware,&quot; <i>Computers & Security</i>, 2024.
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167404824002748)
-* G. Duan, Y. Fu, <u>M. Cai</u>, H. Chen, and J. Sun, &quot;DongTing: a large-scale dataset for anomaly detection of the Linux kernel,&quot; <i>Journal of Systems and Software</i>, DOI:10.1016/j.jss.2023.111745, 2023.  
+* G. Duan, Y. Fu, <u>M. Cai</u>, H. Chen, and J. Sun, &quot;DongTing: a large-scale dataset for anomaly detection of the Linux kernel,&quot; <i>Journal of Systems and Software</i>, 2023.
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0164121223001401)
 * C. Xue, X. Zhong, <u>M. Cai</u>, H. Chen, and W. Wang, &quot;Audio-visual event localization by learning spatial and semantic co-attention,&quot; <i>IEEE Transactions on Multimedia (**TMM**)</i>, DOI:10.1109/TMM.2021.3127029, 2021. (<font color="blue">Impact factor: 6.513</font>)
 * H. Yu, <u>M. Cai</u>, Y. Liu, and F. Lu, &quot;First- and third-person video co-analysis by learning spatial-temporal joint attention,&quot; <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)</i>, DOI:10.1109/TPAMI.2020.3030048, 2020. (<font color="blue">Impact factor: 17.861</font>)
 * Y. Huang, <u>M. Cai</u>, Z. Li, F. Lu and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and action,&quot; <i>IEEE Transactions
 on Image Processing (**TIP**)</i>, DOI:10.1109/TIP.2020.3007841, 2020. (<font color="blue">Impact factor: 6.79</font>)
 * Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;An ego-vision system for discovering human joint attention,&quot; <i>IEEE Transactions
-on Human-Machine Systems (**THMS**)</i>, DOI:10.1109/THMS.2020.2965429, 2020. (<font color="blue">Impact factor: 3.332</font>)  
+on Human-Machine Systems (**THMS**)</i>, DOI:10.1109/THMS.2020.2965429, 2020. (<font color="blue">Impact factor: 3.332</font>)
 [[project]](https://cai-mj.github.io/project/joint_attention_discovery)
-* <u>M. Cai</u>, F. Lu, and Y. Gao, &quot;Desktop action recognition from first-person point-of-view,&quot; <i>IEEE Transactions on Cybernetics (**TCYB**)</i>, DOI:10.1109/TCYB.2018.2806381, 2018. (<font color="blue">Impact factor: 8.803</font>)   
+* <u>M. Cai</u>, F. Lu, and Y. Gao, &quot;Desktop action recognition from first-person point-of-view,&quot; <i>IEEE Transactions on Cybernetics (**TCYB**)</i>, DOI:10.1109/TCYB.2018.2806381, 2018. (<font color="blue">Impact factor: 8.803</font>)
 [[preprint]](/files/CLG_TCYB2018.pdf)
 * <u>M. Cai</u>, K. Kitani, and Y. Sato, &quot;An ego-vision system for hand grasp analysis,&quot; <i>IEEE Transactions
-on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<font color="blue">Impact factor: 2.563</font>)  
+on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017. (<font color="blue">Impact factor: 2.563</font>)
 [[project]](https://cai-mj.github.io/project/visual_grasp_analysis)
 [[preprint]](/files/CKS_THMS2017.pdf)
 
 International Conference
 ======
-* X. Ren, J. Luo, X. Zhong, and <u>M. Cai</u>, &quot;Emotion-aware audio-driven face animation via contrastive feature disentanglement,&quot; <i>INTERSPEECH</i>, 2023.  
+* X. Ren, J. Luo, X. Zhong, and <u>M. Cai</u>, &quot;Emotion-aware audio-driven face animation via contrastive feature disentanglement,&quot; <i>INTERSPEECH</i>, 2023.
 [[paper]](https://www.isca-archive.org/interspeech_2023/ren23_interspeech.pdf)
 * Z. Liao, F. Xiong, J. Luo, <u>M. Cai</u>, ES Chng, J. Feng, and X. Zhong, &quot;Blind estimation of room impulse response from monaural reverberant speech with segmental generative neural network,&quot; <i>INTERSPEECH</i>, 2023.
 [[paper]](https://www.isca-archive.org/interspeech_2023/liao23_interspeech.pdf)
-* H. Jiang, J. Hu, D. Liu, J. Xiong, and <u>M. Cai</u>, &quot;Driversonar: Fine-grained dangerous driving detection using active sonar,&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**)</i>, 2021.  
+* H. Jiang, J. Hu, D. Liu, J. Xiong, and <u>M. Cai</u>, &quot;Driversonar: Fine-grained dangerous driving detection using active sonar,&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**)</i>, 2021.
 [[paper]](https://drive.google.com/file/d/1PofWgWgkGTikuS3xVgauufmHBrHvMKav/view)
-* <u>M. Cai</u>, F. Lu, and Y. Sato, &quot;Generalizing hand segmentation in egocentric videos with uncertainty-guided model adaptation,&quot; <i>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)</i>, 2020. (<font color="blue">acceptance rate: 22%</font>)  
+* <u>M. Cai</u>, F. Lu, and Y. Sato, &quot;Generalizing hand segmentation in egocentric videos with uncertainty-guided model adaptation,&quot; <i>IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)</i>, 2020. (<font color="blue">acceptance rate: 22%</font>)
 [[project]](https://cai-mj.github.io/project/egocentric_hand_segmentation)
 * Z. Li, Y. Huang, <u>M. Cai</u>, and Y. Sato, &quot;Manipulation-skill assessment from videos with spatial attention network,&quot; <i>International Conference on Computer Vision Workshop (**ICCVW**)</i>, 2019.  
 [[Arxiv preprint]](https://arxiv.org/abs/1901.02579)
