@@ -9,7 +9,9 @@ Google Scholar profile</a>.</u>
 
 Journal
 ======
-* C. Xue, X. Zhong, <u>M. Cai</u>, H. Chen, and W. Wang, &quot;Audio-visual event localization by learning spatial and semantic co-attention,&quot; <i>IEEE Transactions on Multimedia (**TMM**)</i>, accepted, 2021. (<font color="blue">Impact factor: 6.513</font>)
+* <u>M. Cai</u>, J. Kezierbieke, X. Zhong, and H. Chen, &quot;Uncertainty-aware and class-balanced domain adaptation for object detection in driving scenes,&quot; <i>IEEE Transactions on Intelligent Transportation Systems (**T-ITS**)</i>, DOI:10.1109/TITS.2024.3413813, 2024. (<font color="blue">Impact factor: 9.551</font>)
+* G. Duan, Y. Fu, <u>M. Cai</u>, H. Chen, and J. Sun, &quot;DongTing: a large-scale dataset for anomaly detection of the Linux kernel,&quot; <i>Journal of Systems and Software</i>, DOI:10.1016/j.jss.2023.111745, 2023.
+* C. Xue, X. Zhong, <u>M. Cai</u>, H. Chen, and W. Wang, &quot;Audio-visual event localization by learning spatial and semantic co-attention,&quot; <i>IEEE Transactions on Multimedia (**TMM**)</i>, DOI:10.1109/TMM.2021.3127029, 2021. (<font color="blue">Impact factor: 6.513</font>)
 * H. Yu, <u>M. Cai</u>, Y. Liu, and F. Lu, &quot;First- and third-person video co-analysis by learning spatial-temporal joint attention,&quot; <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)</i>, DOI:10.1109/TPAMI.2020.3030048, 2020. (<font color="blue">Impact factor: 17.861</font>)
 * Y. Huang, <u>M. Cai</u>, Z. Li, F. Lu and Y. Sato, &quot;Mutual context network for jointly estimating egocentric gaze and action,&quot; <i>IEEE Transactions
 on Image Processing (**TIP**)</i>, DOI:10.1109/TIP.2020.3007841, 2020. (<font color="blue">Impact factor: 6.79</font>)
