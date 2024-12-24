@@ -14,6 +14,7 @@ I received my Ph.D. in Information Science and Technology at The University of T
 
 
 ## News
+* (December 21, 2024) Our work on egocentric speaker diarization has been accepted to ICASSP 2025!  
 * (June 21, 2024) One paper entitled "MaDroid: A Maliciousness-aware Multifeatured Dataset for Detecting Android Malware" has been accepted to Computers & Security.  
 * (June 3, 2024) Our work on domain adaptive object detection in driving scenes has been accepted to [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/10570076){:target="_blank"}!  
 * (May 17, 2023) Two papers on audio-driven face animation and blind estimation of room impulse response have been accepted to INTERSPEECH 2023!  
@@ -21,6 +22,4 @@ I received my Ph.D. in Information Science and Technology at The University of T
 * (November 4, 2021) Our work on audio-visual event localization has been accepted to [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9615027){:target="_blank"}!
 * (August 2, 2021) One paper entitled "DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar" has been accepted to UbiComp 2021.
 * (October 5, 2020) One paper entitled "First and third-person video co-analysis by learning spatial-temporal joint attention" has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence!
-* (June 26, 2020) Our work on jointly estimating egocentric gaze and action is accepted to [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/document/9139335){:target="_blank"}!
-* (February 23, 2020) Our work on domain adaptive hand segmentation is accepted to CVPR 2020! [[Project page]](https://cai-mj.github.io/project/egocentric_hand_segmentation)
 
