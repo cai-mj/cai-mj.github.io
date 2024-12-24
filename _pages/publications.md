@@ -31,7 +31,7 @@ on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017.
 
 International Conference
 ======
-* H. Huang, H. Yu, D. Liu, H. Chen and <u>M. Cai</u>, &quot;Egocentric speaker diarization with vision-guided clustering and adaptive speech re-detection,&quot; <i>ICASSP</i>, 2025.  
+* H. Huang, H. Yu, D. Liu, H. Chen and <u>M. Cai</u>, &quot;Egocentric speaker diarization with vision-guided clustering and adaptive speech re-detection,&quot; <i>IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)</i>, 2025.  
 * X. Ren, J. Luo, X. Zhong, and <u>M. Cai</u>, &quot;Emotion-aware audio-driven face animation via contrastive feature disentanglement,&quot; <i>INTERSPEECH</i>, 2023.
 [[paper]](https://www.isca-archive.org/interspeech_2023/ren23_interspeech.pdf)
 * Z. Liao, F. Xiong, J. Luo, <u>M. Cai</u>, ES Chng, J. Feng, and X. Zhong, &quot;Blind estimation of room impulse response from monaural reverberant speech with segmental generative neural network,&quot; <i>INTERSPEECH</i>, 2023.
