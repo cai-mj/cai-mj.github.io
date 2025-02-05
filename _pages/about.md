@@ -14,6 +14,7 @@ I received my Ph.D. in Information Science and Technology at The University of T
 
 
 ## News
+* (January 23, 2025) One paper entitled "Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild" has been accepted to ICLR 2025!.
 * (December 21, 2024) Our work on egocentric speaker diarization has been accepted to ICASSP 2025!  
 * (June 21, 2024) One paper entitled "MaDroid: A Maliciousness-aware Multifeatured Dataset for Detecting Android Malware" has been accepted to Computers & Security.  
 * (June 3, 2024) Our work on domain adaptive object detection in driving scenes has been accepted to [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/10570076){:target="_blank"}!  
@@ -21,5 +22,4 @@ I received my Ph.D. in Information Science and Technology at The University of T
 * (May 4, 2023) One paper entitled "DongTing: A Large-scale Dataset for Anomaly Detection of the Linux Kernel" has been accepted to The Journal of Systems & Software.
 * (November 4, 2021) Our work on audio-visual event localization has been accepted to [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/document/9615027){:target="_blank"}!
 * (August 2, 2021) One paper entitled "DriverSonar: Fine-Grained Dangerous Driving Detection Using Active Sonar" has been accepted to UbiComp 2021.
-* (October 5, 2020) One paper entitled "First and third-person video co-analysis by learning spatial-temporal joint attention" has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence!
 
