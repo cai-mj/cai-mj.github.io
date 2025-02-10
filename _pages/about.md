@@ -14,7 +14,8 @@ I received my Ph.D. in Information Science and Technology at The University of T
 
 
 ## News
-* (January 23, 2025) One paper entitled "Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild" has been accepted to ICLR 2025!.
+* (February 10, 2025) One paper entitled "Enhancing Overlapped Speech Detection and Speaker Counting with  Spatially-Infused Spectro-Temporal Conformer" has been accepted to IEEE Transactions on Audio, Speech and Language Processing!
+* (January 23, 2025) One paper entitled "Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild" has been accepted to ICLR 2025!
 * (December 21, 2024) Our work on egocentric speaker diarization has been accepted to ICASSP 2025!  
 * (June 21, 2024) One paper entitled "MaDroid: A Maliciousness-aware Multifeatured Dataset for Detecting Android Malware" has been accepted to Computers & Security.  
 * (June 3, 2024) Our work on domain adaptive object detection in driving scenes has been accepted to [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/10570076){:target="_blank"}!  
