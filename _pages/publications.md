@@ -9,6 +9,8 @@ Google Scholar profile</a>.</u>
 
 Journal
 ======
+* W. Chen, J. Yang, X. Zhong, E.S. Chng, and <u>M. Cai</u>, &quot;Enhancing overlapped speech detection and speaker counting with spatially-infused spectro-temporal conformer,&quot; <i>IEEE Transactions on Audio, Speech and Language Processing</i>, 2025.
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10902169)  
 * <u>M. Cai</u>, J. Kezierbieke, X. Zhong, and H. Chen, &quot;Uncertainty-aware and class-balanced domain adaptation for object detection in driving scenes,&quot; <i>IEEE Transactions on Intelligent Transportation Systems (**T-ITS**)</i>, DOI:10.1109/TITS.2024.3413813, 2024.
 [[paper]](https://ieeexplore.ieee.org/document/10570076)
 * G. Duan, H. Liu, <u>M. Cai</u>, J. Sun, and H. Chen, &quot;MaDroid: A maliciousness-aware multifeatured dataset for detecting Android malware,&quot; <i>Computers & Security</i>, 2024.
@@ -31,6 +33,9 @@ on Human-Machine Systems (**THMS**)</i>, vol. 47, no. 4, pp. 524–535, 2017.
 
 International Conference
 ======
+* D. Liu, Y. Feng, B. Liu, T. Zhang, H. Chen, and <u>M. Cai</u>, &quot;Amulet: Integrating sensitive information access with identity authentication on mobile devices,&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**)</i>, 2025.
+* N. Lin, T. Ohkawa, Y. Huang, M. Zhang, M. Li, <u>M. Cai</u>, R. Furuta, and Y. Sato, &quot;SiMHand: Mining similar hands for large-scale 3D hand pose pre-training,&quot; <i>International Conference on Learning Representations (**ICLR**)</i>, 2025.
+[[paper]](https://openreview.net/forum?id=96jZFqM5E0)  
 * H. Huang, H. Yu, D. Liu, H. Chen and <u>M. Cai</u>, &quot;Egocentric speaker diarization with vision-guided clustering and adaptive speech re-detection,&quot; <i>IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)</i>, 2025.  
 * X. Ren, J. Luo, X. Zhong, and <u>M. Cai</u>, &quot;Emotion-aware audio-driven face animation via contrastive feature disentanglement,&quot; <i>INTERSPEECH</i>, 2023.
 [[paper]](https://www.isca-archive.org/interspeech_2023/ren23_interspeech.pdf)
