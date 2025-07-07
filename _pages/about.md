@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Minjie, an associate professor at [Hunan University](http://www-en.hnu.edu.cn/index.htm){:target="_blank"} and a cooperative research fellow at [The University of Tokyo](https://www.iis.u-tokyo.ac.jp/en/){:target="_blank"} cooperating with [Prof. Yoichi Sato](https://www.ut-vision.org/sato-lab/){:target="_blank"}. My research interests include computer vision, human-machine interactions, and robotics.
+Hi! I'm Minjie, an associate professor at [Hunan University](http://www-en.hnu.edu.cn/index.htm){:target="_blank"} and a cooperative research fellow at [The University of Tokyo](https://www.iis.u-tokyo.ac.jp/en/){:target="_blank"} cooperating with [Prof. Yoichi Sato](https://www.ut-vision.org/sato-lab/){:target="_blank"}. My research interests include computer vision, multimedia processing, human-machine interactions, and AI-assisted security.
 
 I received my Ph.D. in Information Science and Technology at The University of Tokyo, supervised by Prof. Yoichi Sato and co-advised by [Dr. Kris Kitani](http://www.cs.cmu.edu/~kkitani/){:target="_blank"}. I received my M.S. in Communication and Information Engineering and B.S. in Electronics and Information Engineering at [Northwestern Polytechnical University](http://en.nwpu.edu.cn/){:target="_blank"}.
 
